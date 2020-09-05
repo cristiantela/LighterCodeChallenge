@@ -1,0 +1,3 @@
+# Ignore prettier in challenge codes
+challenges/*/*.js
+challenges/*/*.py
