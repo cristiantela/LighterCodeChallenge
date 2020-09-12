@@ -22,6 +22,7 @@ Dado dois números inteiros, `ano1` e `ano2`, calcule quantos anos bissextos aco
 
 ## Ranking
 
-|     | Nome | Tamanho (caracteres) |
-| --: | ---- | -------------------- |
-
+| Pessoa                                            | Linguagem                                                                                                                 | Tamanho (caracteres) | Arquivo                              |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------ |
+| [cristiantela](https://github.com/cristiantela)   | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.svg" height="20"> JavaScript | 79                   | [cristiantela.js](cristiantela.js)   |
+| [matheussilva2](https://github.com/matheussilva2) | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.svg" height="20"> Python             | 293                  | [matheussilva2.py](matheussilva2.py) |
