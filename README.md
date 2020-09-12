@@ -14,6 +14,13 @@
 
 Solucionar problema parece fácil para você? Vamos ver se você consegue diminuir a quantidade de caracteres no seu código! A cada semana, um novo desafio será lançado.
 
+**Desafio atual: [Contador de anos bissextos](challenges/week%201%20-%20leap%20years/README.md)**  
+(_05 de setembro de 2020_)
+
+**Links úteis**
+
+- [Como faço para submeter meu código num desafio](how-to-submit.md)
+
 Será exposto um ranking com todos os participantes (agrupados por linguagem).
 
 Entre já no grupo e fique por dentro do próximo desafio! :vulcan_salute::orange_heart:
