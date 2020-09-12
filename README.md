@@ -17,7 +17,7 @@ Solucionar problema parece fácil para você? Vamos ver se você consegue diminu
 **Desafio atual: [Pedra, papel, tesoura!](challenges/week%202%20-%20rock%20paper%20scissors/README.md)**  
 (_12 de setembro de 2020_)
 
-**Desafio passados:**
+**Desafios passados:**
 
 - **[Contador de anos bissextos](challenges/week%201%20-%20leap%20years/README.md)** (_05 de setembro de 2020_)
 
