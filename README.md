@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/DSXjUyORTekKK9Iwa7q5VW">
+  <a href="https://chat.whatsapp.com/Lk5bahSXRrpDVsBBIr27yz">
     <img alt="Whatsapp Badge" src="https://img.shields.io/badge/LighterCode%20Challenge-25D366?label=Entrar%20no%20Grupo&labelColor=informational&style=flat-square&logo=WhatsApp&logoColor=white&link=https://chat.whatsapp.com/DSXjUyORTekKK9Iwa7q5VW"/>
   </a>
 </p>
