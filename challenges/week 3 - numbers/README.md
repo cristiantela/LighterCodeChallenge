@@ -1,4 +1,4 @@
-# #2: Números por extenso
+# #3: Números por extenso
 
 _Início do desafio: quinta-feira, 05 de janeiro de 2023._
 
