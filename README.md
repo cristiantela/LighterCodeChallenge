@@ -14,12 +14,13 @@
 
 Solucionar problema parece fácil para você? Vamos ver se você consegue diminuir a quantidade de caracteres no seu código! A cada semana, um novo desafio será lançado.
 
-**Desafio atual: [Pedra, papel, tesoura!](challenges/week%202%20-%20rock%20paper%20scissors/README.md)**  
-(_12 de setembro de 2020_)
+**Desafio atual: [Números por extenso](challenges/week%203%20-%20numbers/README.md)**  
+(_05 de janeiro de 2023_)
 
 **Desafios passados:**
 
 - **[Contador de anos bissextos](challenges/week%201%20-%20leap%20years/README.md)** (_05 de setembro de 2020_)
+- **[Pedra, papel, tesoura!](challenges/week%202%20-%20rock%20paper%20scissors/README.md)**   (_12 de setembro de 2020_)
 
 **Links úteis**
 
